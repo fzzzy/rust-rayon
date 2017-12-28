@@ -1,0 +1,8 @@
+[package]
+name = "rust-rayon"
+version = "0.1.0"
+authors = ["Donovan Preston <donovanpreston@gmail.com>"]
+
+[dependencies]
+rayon = "0.9"
+
